@@ -1,0 +1,236 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\Edu\\AS.WebForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|x:\\edu\\as.webforms\\as.mvcframework\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\views\\error\\general.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\views\\error\\general.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|X:\\Edu\\AS.WebForms\\as.mvcframework\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9223DACF-E780-45CB-8062-DFE857AD2E22}|AS.MVCFramework\\AS.MVCFramework.csproj|solutionrelative:as.mvcframework\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Controllers\\EmployeeController.cs",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\EmployeeController.cs*",
+              "RelativeToolTip": "AS.MVCFramework\\Controllers\\EmployeeController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T12:30:02.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AS.MVCFramework\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:45:38.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Controllers\\DepartmentController.cs",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "AS.MVCFramework\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T09:18:57.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Web.config",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Web.config",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Web.config",
+              "RelativeToolTip": "AS.MVCFramework\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T10:54:02.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Views\\Home\\Index.cshtml",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AS.MVCFramework\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T10:41:34.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\packages.config",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\packages.config",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\packages.config",
+              "RelativeToolTip": "AS.MVCFramework\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-16T10:58:56.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "AS.MVCFramework\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T12:31:54.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Global.asax.cs",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Global.asax.cs",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Global.asax.cs",
+              "RelativeToolTip": "AS.MVCFramework\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:20:59.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Site.css",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Content\\Site.css",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Content\\Site.css",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Content\\Site.css",
+              "RelativeToolTip": "AS.MVCFramework\\Content\\Site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-03-16T10:15:31.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "General.cshtml",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Error\\General.cshtml",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Views\\Error\\General.cshtml",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Error\\General.cshtml",
+              "RelativeToolTip": "AS.MVCFramework\\Views\\Error\\General.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T10:27:04.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Views\\Department\\Index.cshtml",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "AS.MVCFramework\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T09:26:39.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Controllers\\ErrorController.cs",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "AS.MVCFramework\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:25:58.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AS.MVCFramework\\Controllers\\HomeController.cs",
+              "ToolTip": "X:\\Edu\\AS.WebForms\\AS.MVCFramework\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AS.MVCFramework\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T10:25:40.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

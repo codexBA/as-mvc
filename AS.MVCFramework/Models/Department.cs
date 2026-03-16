@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Security.Principal;
+using System.Web;
+
+namespace AS.MVCFramework.Models
+{
+    public class Department
+    {
+        public string Name { get; set; }
+        public string Address { get; set; }
+    }
+}

@@ -1,0 +1,32 @@
+﻿@model List<Employee>
+@using AS.MVCFramework.Models;
+
+<h1>Employee - ovdje ce se prikazati lista zaposlenih</h1>
+
+<div>
+    <table class="table table-primary table-bordered table-hover table-striped">
+        <thead>
+            <tr>
+                <th>Ime</th>
+                <th>Pozicija</th>
+            </tr>
+        </thead>
+        @foreach (Employee emp in Model)
+        {
+            <tr>
+                <td>@emp.Name</td>
+                <td>@emp.Position</td>
+            </tr>
+        }
+    </table>
+</div>
+
+
+@section scripts{
+    <style>
+        h1 {
+            color:red;
+        }
+    </style>
+
+}

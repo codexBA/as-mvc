@@ -1,0 +1,38 @@
+﻿
+@model List<Department>
+@using AS.MVCFramework.Models;
+
+@{
+    ViewBag.Title = "Odjeli";
+   
+}
+
+@{
+    var departments = Model;
+}
+
+
+@* CTRL + K + D *@
+<h2>Odjeli</h2>
+<hr />
+<table class="table table-bordered table-active table-striped">
+    <thead>
+        <tr>
+            <th>Naziv</th>
+            <th>Adresa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var dpt in departments)
+        {
+            <tr>
+                <td>@dpt.Name</td>
+                <td>@dpt.Address</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<br />
+<p>
+    @ViewBag.Naslov
+</p>
