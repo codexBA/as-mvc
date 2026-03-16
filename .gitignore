@@ -1,3 +1,6 @@
+# Project exclusions (do not commit)
+AS.MVCDemo/
+
 # Visual Studio / MSBuild
 .vs/
 *.suo
@@ -8,7 +11,10 @@
 *.csproj.user
 *.rsuser
 *.pdb
+*.dll
 *.mdb
+**/*.pdb
+**/*.dll
 *.pidb
 *.svclog
 *.log
@@ -94,4 +100,7 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
+
+# Local-only docs / notes (do not commit)
+.locals/
 

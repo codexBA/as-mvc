@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c 'mklink /J \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Scripts\"\" \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Scripts\"\"')",
+      "Bash(cmd /c 'mklink /J \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Content\"\" \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Content\"\"')",
+      "Bash(cmd /c \"mklink /J \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Scripts\"\" \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Scripts\"\"\")",
+      "Bash(cmd /c \"mklink /J \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Content\"\" \"\"x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Content\"\"\")",
+      "Bash(powershell -Command \"New-Item -ItemType Junction -Path ''x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Scripts'' -Target ''x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Scripts''; New-Item -ItemType Junction -Path ''x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCDemo\\\\Content'' -Target ''x:\\\\Edu\\\\AS.WebForms\\\\AS.MVCFramework\\\\Content''\")"
+    ]
+  }
+}
