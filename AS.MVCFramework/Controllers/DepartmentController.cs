@@ -12,6 +12,7 @@ namespace AS.MVCFramework.Controllers
         // Naziv View-a je isti kao naziv akcije/metode
         public ActionResult Index()
         {
+            
             List<Department> departments = new List<Department>
             {
                 new Department { Name = "IT", Address = "123 Tech Street" },

@@ -1,0 +1,97 @@
+# Visual Studio / MSBuild
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.csproj.user
+*.rsuser
+*.pdb
+*.mdb
+*.pidb
+*.svclog
+*.log
+*.tlog
+*.cache
+*.ilk
+*.iobj
+*.ipdb
+
+# Build outputs
+**/[Bb]in/
+**/[Oo]bj/
+**/[Dd]ebug*/
+**/[Rr]elease*/
+**/x64/
+**/x86/
+**/AnyCPU/
+**/ARM*/
+
+# ASP.NET publish artifacts
+**/App_Data/PublishProfiles/
+**/Properties/PublishProfiles/
+**/*.Publish.xml
+**/*.pubxml
+**/*.pubxml.user
+**/publish/
+**/Publish/
+**/wwwroot/dist/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/**/*
+!**/packages/repositories.config
+**/nuget.exe
+**/NuGet.exe
+**/project.lock.json
+**/project.assets.json
+**/project.nuget.cache
+
+# Dotnet tool restore / local tools
+.config/dotnet-tools.json.user
+
+# IIS Express / local web server
+.vs/config/
+**/.vs/
+**/.iisexpress/
+
+# Test results
+TestResults/
+**/TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# ReSharper / Rider
+_ReSharper*/
+**/*.DotSettings.user
+.idea/
+
+# VS Code
+.vscode/
+
+# OS files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Azure / deployment local artifacts
+**/*.PublishSettings
+
+# Local database files (often in App_Data)
+**/App_Data/*.mdf
+**/App_Data/*.ldf
+**/App_Data/*.sdf
+**/App_Data/*.sqlite
+**/App_Data/*.db
+
+# Node (if any tooling gets added)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+

@@ -1,0 +1,22 @@
+﻿@model List<AS.DbFirst.Region>
+
+<h2>Lista regiona</h2>
+<br />
+<br />
+<table>
+    <thead>
+        <tr>
+            <th>Naziv</th>
+            <th>Sifra</th>
+            <th>Populacija</th>
+        </tr>
+    </thead>
+    @foreach (var region in Model)
+    {
+        <tr>
+            <td>@region.RegionName</td>
+            <td>@region.RegionCode</td>
+            <td>@region.Population</td>
+        </tr>
+    }
+</table>

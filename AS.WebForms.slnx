@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="AS.DbFirst/AS.DbFirst.csproj" Id="ac974cb3-18b0-4ab9-b52f-3cdf87d3bc95" />
   <Project Path="AS.MVCFramework/AS.MVCFramework.csproj" Id="9223dacf-e780-45cb-8062-dfe857ad2e22" />
   <Project Path="AS.MVC_Core/AS.MVC_Core.csproj" Id="20cb9a10-9169-46de-b2e5-81de73febb97" />
   <Project Path="AS.WebForms/AS.WebForms.csproj" Id="6c585d7b-1b26-4fac-8645-ccd7e801b647" />

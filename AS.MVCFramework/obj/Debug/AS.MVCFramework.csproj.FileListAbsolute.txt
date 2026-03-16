@@ -77,3 +77,10 @@ X:\Edu\AS.WebForms\AS.MVCFramework\obj\Debug\AS.MVCFramework.csproj.CoreCompileI
 X:\Edu\AS.WebForms\AS.MVCFramework\obj\Debug\AS.MVCFr.B57320BC.Up2Date
 X:\Edu\AS.WebForms\AS.MVCFramework\obj\Debug\AS.MVCFramework.dll
 X:\Edu\AS.WebForms\AS.MVCFramework\obj\Debug\AS.MVCFramework.pdb
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\AS.DbFirst.dll
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\EntityFramework.dll
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\EntityFramework.SqlServer.dll
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\AS.DbFirst.pdb
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\AS.DbFirst.dll.config
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\EntityFramework.xml
+X:\Edu\AS.WebForms\AS.MVCFramework\bin\EntityFramework.SqlServer.xml
